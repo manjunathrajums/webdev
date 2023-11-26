@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>The best movies according to Manjunath</h1>
+
+<h2>My top 3 movies of all time</h2>
+
+<hr />
+
+<h2>Student of the year</h2>
+<p>this was the first bollywood movie i watched and it was pretty amazing</p>
+
+<h2>Vedalam</h2>
+<p>this was the first tamil movie which i liked very much </p>
+
+<h2>Vikram</h2>
+<p>this is a movie from lokiverse which is truly marvellous</p>
+</body>
+</html><!-- Write your code below -->
