@@ -1,0 +1,20 @@
+<!-- TODO 1: Create the HTML Boilerplate -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifolio website</title>
+</head>
+<body>
+   <h1>Manjunath's Portifolio</h1> 
+   <h2>I am a web developer</h2> 
+   <hr>
+   <h2><a href="../New folder/index.html">Favourite movies</a></h2>
+   <img src="../Screenshot 2023-11-29 181158.png" alt="my fav movies" />
+   <h2><a href="../solution.html">birthday project</a></h2>
+   <img src="../4.3 HTML Porfolio Project/assets\images/birthday-invite.png" alt="birthday invite"/>
+   <h3><a href="../4.3 HTML Porfolio Project/public/about.html">about me</a></h3>
+   <h3><a href="../4.3 HTML Porfolio Project/public/contact.html">contact</a></h3>
+</body>
+</html>
